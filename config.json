@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailualculate",
+        "uuid": 24036650,
+        "checksum": "a9ysp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
